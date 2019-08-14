@@ -1,0 +1,35 @@
+{
+  "id": "43af9b72-0375-43d9-96da-14275fa52ecc",
+  "name": "Logico",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [{ 
+    "appId": "83326d6d-11f8-49fd-981a-6f266a7c8d81", 
+    "name": "Customizable Report Pack", 
+    "publisher": "ForNAV", 
+    "version": "4.0.0.0" },{
+      "appId": "6f0293d3-86fc-4ff8-9632-54a580be6546",
+      "name": "ForNAV Core",
+      "publisher": "ForNAV",
+      "version": "4.0.0.0"
+    }],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Logico.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
